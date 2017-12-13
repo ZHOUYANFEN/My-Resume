@@ -1,0 +1,479 @@
+
+{
+  "cn": {
+    "header": {
+      "langList": [
+        "中",
+        "英"
+      ],
+      "titleList": [
+        {
+          "svg": "img/d_home.svg",
+          "title": "首页"
+        },
+        {
+          "svg": "img/d_info.svg",
+          "title": "关于我"
+        },
+        {
+          "svg": "img/d_skills.svg",
+          "title": "技能栈"
+        },
+        {
+          "svg": "img/d_exp.svg",
+          "title": "经历"
+        },
+        {
+          "svg": "img/d_works.svg",
+          "title": "作品集"
+        },
+        {
+          "svg": "img/d_contact.svg",
+          "title": "联系我"
+        }
+      ]
+    },
+    "footer": {},
+    "default": {
+      "quote": "生活是一种绵延不绝的渴望，渴望不断上升，变得更伟大而高贵。",
+      "desList": [
+        "我叫李路",
+        "资深前端研发工程师",
+        "1020124712@qq.com"
+      ]
+    },
+    "info": {
+      "title": "关于我",
+      "infoList": [
+        {
+          "icon": "img/i_age.svg",
+          "key": "年龄",
+          "value": "28岁"
+        },
+        {
+          "icon": "img/i_edu.svg",
+          "key": "学历",
+          "value": "本科"
+        },
+        {
+          "icon": "img/i_site.svg",
+          "key": "坐标",
+          "value": "上海"
+        },
+        {
+          "icon": "img/i_status.svg",
+          "key": "状态",
+          "value": "在职"
+        }
+      ],
+      "desList": [
+        "五年工作经验,三年半全职前端开发经验",
+        "熟悉MV*开发,深谙自动化,模块化开发之道",
+        "高效的自学能力,具备独立分析解决问题能力",
+        "强烈的自我驱动力,代码强迫症患者"
+      ]
+    },
+    "skill": {
+      "title": "技能栈",
+      "outCircleList": [
+        {
+          "color": "rgba(121,100,102,0.8)",
+          "name": "gulp"
+        },
+        {
+          "color": "rgba(49,65,82,0.8)",
+          "name": "php"
+        },
+        {
+          "color": "rgba(76,157,160,0.8)",
+          "name": "webpack"
+        },
+        {
+          "color": "rgba(66,66,66,0.8)",
+          "name": "less"
+        },
+        {
+          "color": "rgba(193,131,106,0.8)",
+          "name": "git"
+        },
+        {
+          "color": "rgba(117,148,179,0.8)",
+          "name": "nodejs"
+        },
+        {
+          "color": "rgba(117,114,185,0.8)",
+          "name": "javascript"
+        },
+        {
+          "color": "rgba(147,147,189,0.8)",
+          "name": "vue"
+        }
+      ],
+      "innerCircleList": [
+        {
+          "color": "rgba(179,164,140,0.8)",
+          "name": "es6"
+        },
+        {
+          "color": "rgba(171,209,220,0.8)",
+          "name": "vue"
+        },
+        {
+          "color": "rgba(238,215,163,0.8)",
+          "name": "html"
+        },
+        {
+          "color": "rgba(207,184,178,0.8)",
+          "name": "css3"
+        }
+      ],
+      "desList": [
+        "熟练使用vue及各种类库的指令封装",
+        "常驻PC/APP/移动端三平台前端研发",
+        "擅长组件/插件开发，能脱离库书写JS代码",
+        "编码常思其健壮性，扩展性，维护性"
+      ]
+    },
+    "works": {
+      "title": "作品集",
+      "worksList": [
+        {
+          "title": "node+ejs爬虫",
+          "des": "node+ejs爬上海链家房屋价格信息+张江地区租房信息",
+          "url": "https://github.com/moveondo/nodeJs-Reptile"
+        },
+        {
+          "title": "基于VUE2.5仿天猫移动端首页的SPA",
+          "des": "基于VUE2.5仿天猫移动端首页的，加强对vue的理解！",
+          "url": "https://github.com/moveondo/VUE-Taobao"
+        },
+        {
+          "title": "换量+推广系统",
+          "des": "采用vue开发，针对借贷平台进行换量，通过对其他平台进行自我客户的相互推广，减少企业成本。同时对我系统平台进行项目推广，给予推广用户一定的奖金！",
+          "url": "https://mobiccdai.ppdai.com/super/market.html"
+        },
+        {
+          "title": "后台管理系统",
+          "des": "Vue+Element组件库做了个后台管理系统，结合本公司后端Java人员提供的接口进行开发，做到从前端界面展示到后端接口的取值。在使用本框架中，遇到了很多问题，也积累了宝贵的经验。",
+          "url": "https://github.com/moveondo/vue-ManageSystem"
+        }
+      ],
+      "viewMore": "github上面查看更多"
+    },
+    "experience": {
+      "title": "经历",
+      "expList": [
+        {
+          "title": "上海拍拍贷金融信息服务有限公司",
+          "time": "2016年11月~至今",
+          "post": "资深前端工程师",
+          "imgUrl": "img/e_js.svg",
+          "tech": "webpack gulp vue.js node.js",
+          "contentList": [
+            "负责快速构建高质量移动APP/PC/移动端页面",
+            "node框架express+ejs模板引擎开发landingpage数据展示系统",
+            "highchart生成landingpage数据展示界面 ",
+            "利用Vue + Element组件库与后端Java配合完成后台管理系统"
+          ]
+        },
+        {
+          "title": "永大电梯设备（中国）有限公司",
+          "time": "2013年12月~2016年11月",
+          "post": "软件工程师",
+          "imgUrl": "img/e_html.svg",
+          "tech": "php,html5,css3,javascript,jquery,bootstrap等",
+          "contentList": [
+            "敏捷机动性开发,熟练使用PHP,HTML,CSS根据UI需求短进度内产出静态页面",
+            "PHP MVC框架CI的使用及Photoshop的基本使用根据user需求开发web界面",
+            "数据可视化,熟练使用第三方可视化前端框架highcharts根据user需求开发逻辑视图(如营业受订,出货,收款报表等);",
+            "熟练掌握MySQL和SQL优化功能,提高界面响应速度"
+          ]
+        },
+        {
+          "title": "德邦物流股份有限公司",
+          "time": "2012年07月~2013年11月",
+          "post": "数据分析师",
+          "imgUrl": "img/e_seo.svg",
+          "tech": "excel,spass,ppt",
+          "contentList": [
+            "车队司机油耗及偏离度分析",
+            "车队司机计件工资分析与核对 ",
+            "部门利润分析与改善"
+          ]
+        }
+      ],
+      "des": "2013年末，发现数据分析师需编程才能突破瓶颈，开始编程自学生涯。"
+    },
+    "contact": {
+      "title": "联系我",
+      "desList1": [
+        "灵感",
+        "代码",
+        "梦想",
+        "未来"
+      ],
+      "desList2": [
+        "注重效率，偏爱敏捷开发",
+        "喜欢尝试，期待新鲜事物",
+        "前端即兴趣，兴趣即未来",
+        "行路有良友，便是捷径",
+        "带上我吧，一起看到更大的世界"
+      ],
+      "download": "下载简历",
+      "fileList": [
+        {
+          "title": "HTML版",
+          "url": "www.baidu.com"
+        },
+        {
+          "title": "PDF版",
+          "url": "www.baidu.com"
+        }
+      ],
+      "typeList": [
+        {
+          "icon": "img/s_github.svg",
+          "url": "https://github.com/moveondo/"
+        }
+      ]
+    }
+  },
+  "en": {
+    "header": {
+      "langList": [
+        "CN",
+        "EN"
+      ],
+      "titleList": [
+        {
+          "svg": "img/d_home.svg",
+          "title": "home"
+        },
+        {
+          "svg": "img/d_info.svg",
+          "title": "about"
+        },
+        {
+          "svg": "img/d_skills.svg",
+          "title": "skills"
+        },
+        {
+          "svg": "img/d_exp.svg",
+          "title": "exp"
+        },
+        {
+          "svg": "img/d_works.svg",
+          "title": "works"
+        },
+        {
+          "svg": "img/d_contact.svg",
+          "title": "contact"
+        }
+      ]
+    },
+    "footer": {},
+    "default": {
+      "quote": "Life is a kind of endless yearning, eager to continue to rise, become more great and noble.",
+      "desList": [
+        "I am li lu",
+        "Senior front-end R & D engineer",
+        "1020124712@qq.com"
+      ]
+    },
+    "info": {
+      "title": "About Me",
+      "infoList": [
+        {
+          "icon": "img/i_age.svg",
+          "key": "Age",
+          "value": "28"
+        },
+        {
+          "icon": "img/i_edu.svg",
+          "key": "Edu.",
+          "value": "B.S."
+        },
+        {
+          "icon": "img/i_site.svg",
+          "key": "Add.",
+          "value": "ShangHai"
+        },
+        {
+          "icon": "img/i_status.svg",
+          "key": "Status",
+          "value": "On Job"
+        }
+      ],
+      "desList": [
+        "Five years of work experience, three and a half full-time front-end development experience",
+        "Familiar with MV * development, well versed in automation, modular development of the road",
+        "Efficient self-learning ability, with independent analysis to solve problems",
+        "Strong self-driving force, the code OCD"
+      ]
+    },
+    "skill": {
+      "title": "Skills",
+      "outCircleList": [
+        {
+          "color": "rgba(121,100,102,0.8)",
+          "name": "gulp"
+        },
+        {
+          "color": "rgba(49,65,82,0.8)",
+          "name": "php"
+        },
+        {
+          "color": "rgba(76,157,160,0.8)",
+          "name": "webpack"
+        },
+        {
+          "color": "rgba(66,66,66,0.8)",
+          "name": "less"
+        },
+        {
+          "color": "rgba(193,131,106,0.8)",
+          "name": "git"
+        },
+        {
+          "color": "rgba(117,148,179,0.8)",
+          "name": "javascript"
+        },
+        {
+          "color": "rgba(71,83,94,0.8)",
+          "name": "vue"
+        },
+        {
+          "color": "rgba(147,147,189,0.8)",
+          "name": "nodejs"
+        }
+      ],
+      "innerCircleList": [
+        {
+          "color": "rgba(179,164,140,0.8)",
+          "name": "es6"
+        },
+        {
+          "color": "rgba(171,209,220,0.8)",
+          "name": "vue"
+        },
+        {
+          "color": "rgba(238,215,163,0.8)",
+          "name": "html"
+        },
+        {
+          "color": "rgba(207,184,178,0.8)",
+          "name": "css3"
+        }
+      ],
+      "desList": [
+        "Skilled use of vue and encapsulate all kinds of libraries",
+        "Permanent PC / APP / Mobile terminal three platform front-end research and development",
+        "Good at component / plugin development, can be written out of the library to write JS code",
+        "Coding thinking robustness/scalability/maintainability"
+      ]
+    },
+    "works": {
+      "title": "Works",
+      "worksList": [
+        {
+          "title": "node+ejs reptile",
+          "des": "node + ejs climb Shanghai house price information + Zhangjiang area rental information",
+          "url": "https://github.com/moveondo/nodeJs-Reptile"
+        },
+        {
+          "title": "Based on VUE2.5 Imitation Lynx mobile home page SPA",
+          "des": "Based on VUE2.5 imitation Lynx mobile home page, to strengthen the understanding of vue!",
+          "url": "https://github.com/moveondo/VUE-Taobao"
+        },
+        {
+          "title": "Change + promotion system",
+          "des": "Using vue development, lending platform for the amount of change, through mutual promotion of other platforms to customers, reduce business costs. At the same time I system platform for project promotion, to give users a certain amount of promotional bonuses!",
+          "url": "https://mobiccdai.ppdai.com/super/market.html"
+        },
+        {
+          "title": "Background management system",
+          "des": "Vue + Element component library made a background management system, combined with the company's back-end Java personnel to provide the interface development, so that the front-end interface to display the value of the back-end interface. In the use of this framework, encountered many problems, but also accumulated valuable experience.",
+          "url": "https://github.com/moveondo/vue-ManageSystem"
+        }
+      ],
+      "viewMore": "Go github to see more"
+    },
+    "experience": {
+      "title": "Experience",
+      "expList": [
+        {
+          "title": "Shanghai pat loan financial information services Limited",
+          "time": "2016.11~now",
+          "post": "Senior front-end engineer",
+          "imgUrl": "img/e_js.svg",
+          "tech": "webpack gulp vue.js node.js",
+          "contentList": [
+            "Responsible for the rapid construction of high-quality APP / PC / mobile page",
+            "node framework express + ejs template engine development landingpage data display system",
+            "highchart generate landingpage data display interface",
+            "Use Vue + Element component library and back-end Java with the completion of the background management system"
+          ]
+        },
+        {
+          "title": "Yongda Elevator Equipment (China) Co., Ltd.",
+          "time": "2013.12~2016.11",
+          "post": "software engineer",
+          "imgUrl": "img/e_html.svg",
+          "tech": "php,html5,css3,javascript,jquery,bootstrap",
+          "contentList": [
+            "Agile Mobile Development, Skillfully Using PHP, HTML, CSS Produces Static Pages with Short Progress Based on UI Requirements",
+            "The Use of PHP MVC Framework CIs and Basic Photoshop Use to Develop Web Interfaces Based on User Needs",
+            "Data visualization, proficient use of third-party visualization front-end framework highcharts to develop logical views based on user needs (such as business subscription, shipping, receiving reports, etc.);",
+            "Proficiency in MySQL and SQL optimization to improve interface responsiveness"
+          ]
+        },
+        {
+          "title": "Debang Logistics Co., Ltd.",
+          "time": "2012.07~2013.11",
+          "post": "Data Analyst",
+          "imgUrl": "img/e_seo.svg",
+          "tech": "excel,spass,ppt",
+          "contentList": [
+            "Fleet Driver Fuel Consumption and Deviation Analysis",
+            "Fleet Driver Piece Wages Analysis and Verification",
+            "Departmental profit analysis and improvement"
+          ]
+        }
+      ],
+      "des": "In late 2013, we found that data analysts need to be programmed to break through the bottleneck and begin programming self-taught."
+    },
+    "contact": {
+      "title": "Contact Me",
+      "desList1": [
+        "INSPIRATION",
+        "CODE",
+        "DREAM",
+        "FUTURE"
+      ],
+      "desList2": [
+        "Focus on efficiency, preference for agile development",
+        "Like to try, look forward to something new",
+        "Front is interested, interest is the future",
+        "Line road friends, is a shortcut",
+        "With me, see the bigger world together"
+      ],
+      "download": "Download Resume",
+      "fileList": [
+        {
+          "title": "HTML",
+          "url": "www.baidu.com"
+        },
+        {
+          "title": "PDF",
+          "url": "www.baidu.com"
+        }
+      ],
+      "typeList": [
+        {
+          "icon": "img/s_github.svg",
+          "url": "https://github.com/moveondo"
+        }
+      ]
+    }
+  }
+}
